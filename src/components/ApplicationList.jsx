@@ -81,8 +81,8 @@ function ApplicationList({ onEdit, refresh, filteredApplications }) {
                                 </div>
                             </div>
 
-                            <span className={`status status-${app.status.toLowerCase()}`}>
-                                {app.status.replace('_', ' ')}
+                            <span className={`status status-${app.status ? app.status.toLowerCase() : 'unkownn'}`}>
+                                {app.status ? app.status.replace('_', ' ') : 'No Status'}
                             </span>
 
                             <p className="date">Applied: {app.applicationDate}</p>
