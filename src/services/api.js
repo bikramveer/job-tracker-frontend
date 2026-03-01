@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8080/api/applications';
+const API_BASE_URL = import.meta.env.VITE_API_URL || '/api/applications';
 
 const api = {
     getAllApplications: () => axios.get(API_BASE_URL),
