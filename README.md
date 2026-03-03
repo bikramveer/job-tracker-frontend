@@ -171,7 +171,7 @@ Tested and verified on:
 
 ## Related Projects
 
-This frontend connects to a Spring Boot REST API that handles all backend logic, database operations, and business rules. See the [backend repository](https://github.com/YOUR_USERNAME/job-tracker-api) for implementation details on the API layer, database design, and AWS deployment.
+This frontend connects to a Spring Boot REST API that handles all backend logic, database operations, and business rules. See the [backend repository](https://github.com/bikramveer/job-tracker-api) for implementation details on the API layer, database design, and AWS deployment.
 
 ## License
 
