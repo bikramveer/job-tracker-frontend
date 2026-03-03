@@ -96,21 +96,6 @@ npm run dev
 
 The application will be available at `http://localhost:5173`
 
-### Available Scripts
-```bash
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build locally
-npm run preview
-
-# Run linter
-npm run lint
-```
-
 ## Project Structure
 ```
 src/
