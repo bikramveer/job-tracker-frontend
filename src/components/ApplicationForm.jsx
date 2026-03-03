@@ -126,7 +126,7 @@ function ApplicationForm({ onApplicationCreated, onCancel, editApplication }) {
                 <div className='form-group'>
                     <label>Job URL/Link</label>
                     <input
-                        type='url'
+                        type='text'
                         name='jobUrl'
                         value={formData.jobUrl}
                         onChange={handleChange}
