@@ -179,9 +179,9 @@ This project is open source and available under the MIT License.
 
 ## Contact
 
-**GitHub:** [github.com/bikramveer](https://github.com/bikramveer)
-**LinkedIn:** [linkedin.com/bikramveer](https://www.linkedin.com/in/bikramveer-gill/)
-**Portfolio:** [Visit It Here](https://bikgill.netlify.app/)
+- **GitHub:** [github.com/bikramveer](https://github.com/bikramveer)
+- **LinkedIn:** [linkedin.com/bikramveer](https://www.linkedin.com/in/bikramveer-gill/)
+- **Portfolio:** [Visit It Here](https://bikgill.netlify.app/)
 
 ---
 
