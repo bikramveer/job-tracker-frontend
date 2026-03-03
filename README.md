@@ -2,7 +2,7 @@
 
 A React-based web application for tracking job applications with full CRUD operations, search functionality, and real-time updates. Built with Vite and deployed on Vercel with serverless proxy configuration.
 
-- **Live Demo:** https://jobtracker.vercel.app  
+- **Live Demo:** https://jobtrackercrud.vercel.app  
 - **Backend API:** http://35.86.164.77:8080/api/applications  
 - **Related Repository:** [Backend API Repository](https://github.com/YOUR_USERNAME/job-tracker-api)
 
