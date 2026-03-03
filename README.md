@@ -4,7 +4,7 @@ A React-based web application for tracking job applications with full CRUD opera
 
 - **Live Demo:** https://jobtrackercrud.vercel.app  
 - **Backend API:** http://35.86.164.77:8080/api/applications  
-- **Related Repository:** [Backend API Repository](https://github.com/YOUR_USERNAME/job-tracker-api)
+- **Related Repository:** [Backend API Repository](https://github.com/bikramveer/job-tracker-api)
 
 ## Overview
 
